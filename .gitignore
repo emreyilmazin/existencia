@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/existencia-app/node_modules
+/existencia-core/.vs/existencia-core
+/existencia-core/obj
